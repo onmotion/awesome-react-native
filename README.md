@@ -591,6 +591,7 @@ Components and native modules.
 * [react-native-flanimatedimage ★43](https://github.com/nihgwu/react-native-flanimatedimage) - FLAnimatedImage for React Native.
 * [react-native-grading ★43](https://github.com/Tinysymphony/react-native-grading) - React Native Component for grading scores using ReactART.
 * [react-native-auto-typing-text ★43](https://github.com/phuongla/react-native-auto-typing-text) - An auto typing text component for react-native
+* [react-native-autocomplete-dropdown ★43](https://github.com/onmotion/react-native-autocomplete-dropdown) - Dropdown Item picker with search and autocomplete (typeahead) functionality for react native
 * [react-native-slack-webhook ★42](https://github.com/xcarpentier/react-native-slack-webhook) - Follow some activities (new user, payment,...) from your app via Slack and this webhook lib.
 * [react-native-responsive-linechart ★41](https://github.com/N1ghtly/react-native-responsive-linechart) - Draw Line and Area charts easily. Works responsively.
 * [react-native-simpledialog-android ★41](https://github.com/lucasferreira/react-native-simpledialog-android) - React Native Android module to use Android's AlertDialog - same idea of AlertIOS
